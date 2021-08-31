@@ -50,6 +50,7 @@ body {
    vertical-align: middle;
    padding: 13px 21px;
    box-sizing: border-box;
+   cursor: pointer;
 }
 
 input {
@@ -830,7 +831,7 @@ input {
    line-height: 20px;
    font-weight: 400;
    color: #989898;
-   width: 200px;
+   width: 195px;
    margin-top: 13px;
    margin-right: 200px;
    float: left;
@@ -838,7 +839,7 @@ input {
 
 .footer-copyright {
    float: right;
-   width: 308px;
+   width: 315px;
 }
 
 .footer-copyright img {
@@ -877,13 +878,12 @@ input {
 
 .footer-copyright__anchor {
    display: inline-block;
-   margin-top: 25px;
+   /* margin-top: 25px; */
    font-size: 14px;
    line-height: 20px;
    color: #989898;
    font-weight: 400;
-   text-decoration: none;
-   text-transform: uppercase;
+   text-decoration: none;  
 }
 
 .footer-copyright__anchor span {
