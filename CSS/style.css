@@ -877,8 +877,7 @@ input {
 }
 
 .footer-copyright__anchor {
-   display: inline-block;
-   /* margin-top: 25px; */
+   display: inline-block;  
    font-size: 14px;
    line-height: 20px;
    color: #989898;
