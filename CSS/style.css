@@ -61,8 +61,8 @@ input {
    background-image: url(../img/wheat-back.jpg);
    background-repeat: no-repeat;
    background-position: bottom;
-   background-size: cover;
-   min-height: 490px;
+   background-size: cover;  
+   height: 100vh;
    padding: 0;
    padding-top: 60px;
 }
