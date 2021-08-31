@@ -108,10 +108,12 @@ input {
 
 .menu-nav a:hover {
    color: #ffcb78;
+   transition: color 0.3s;
 }
 
 .menu-nav:hover {
    border-bottom: 1px solid rgba(255, 255, 255, 1);
+   transition: border-bottom 0.3s;
 }
 
 .menu-nav a:active {
@@ -238,6 +240,7 @@ input {
    color: #6a3900;
    border: 2px solid #6a3900;
    border-top: 2px solid #6b3b02;
+   transition: all 0.3s;
 }
 
 .discover.btn:active {
@@ -393,6 +396,7 @@ input {
 
 .source a:hover {
    color: #6a3900;
+   transition: color 0.3s;
 }
 
 .source a:active {
@@ -475,6 +479,7 @@ input {
    color: #fff;
    background-color: #a5a097;
    border: none;
+   transition: all 0.3s;
 }
 
 .press .discover.btn:active {
@@ -630,6 +635,7 @@ input {
 .feedback-form-group select:hover,
 .feedback-form-group textarea:hover {
    background-color: rgba(0, 0, 0, 0.15);
+   transition: background-color 0.3s;
 }
 
 .feedback-form-group input[type="text"]:focus,
@@ -670,6 +676,7 @@ input {
 
 .feedback-form-group label input[type="checkbox"]:hover {
    opacity: 0.15;
+   transition: opacity 0.3s;
 }
 
 .feedback-form-group label input[type="checkbox"]:focus {
@@ -690,6 +697,7 @@ input {
 .feedback-form .send.btn:hover {
    background-color: #6a3900;
    border: none;
+   transition: all 0.3s;
 }
 
 .feedback-form .send.btn:active {
@@ -735,6 +743,7 @@ input {
 
 .footer-menu:hover {
    border-bottom: 1px solid rgba(255, 255, 255, 1);
+   transition: border-bottom 0.3s;
 }
 
 .footer-menu:active {
@@ -764,6 +773,7 @@ input {
 
 .footer-menu a:hover {
    color: #ffcb78;
+   transition: color 0.3s;
 }
 
 .footer-menu a:active {
@@ -842,6 +852,7 @@ input {
 .footer-copyright img:hover,
 .social-btn:hover {
    border-color: rgba(255, 203, 120, 0.3);
+   transition: border-color 0.3s;
 }
 
 .footer-copyright img:active,
